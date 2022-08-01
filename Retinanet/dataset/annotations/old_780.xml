@@ -1,0 +1,62 @@
+<annotation>
+	<folder>XML</folder>
+	<filename>old_780.jpg</filename>
+	<path>F:\Object-Detection\Scripts\converters\labels\train\old_780.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bien khac</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1476</xmin>
+			<ymin>296</ymin>
+			<xmax>1607</xmax>
+			<ymax>445</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Nguoi di bo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1030</xmin>
+			<ymin>459</ymin>
+			<xmax>1093</xmax>
+			<ymax>521</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Cam di nguoc chieu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>637</xmin>
+			<ymin>537</ymin>
+			<xmax>663</xmax>
+			<ymax>559</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Bien khac</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>832</xmin>
+			<ymin>535</ymin>
+			<xmax>850</xmax>
+			<ymax>564</ymax>
+		</bndbox>
+	</object>
+</annotation>

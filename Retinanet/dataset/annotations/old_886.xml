@@ -1,0 +1,38 @@
+<annotation>
+	<folder>XML</folder>
+	<filename>old_886.jpg</filename>
+	<path>F:\Object-Detection\Scripts\converters\labels\train\old_886.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Giao nhau voi duong khong uu tien</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1075</xmin>
+			<ymin>527</ymin>
+			<xmax>1101</xmax>
+			<ymax>556</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Cam do xe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1028</xmin>
+			<ymin>519</ymin>
+			<xmax>1057</xmax>
+			<ymax>549</ymax>
+		</bndbox>
+	</object>
+</annotation>

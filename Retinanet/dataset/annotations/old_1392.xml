@@ -1,0 +1,38 @@
+<annotation>
+	<folder>XML</folder>
+	<filename>old_1392.jpg</filename>
+	<path>F:\Object-Detection\Scripts\converters\labels\train\old_1392.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Huong di phai re phai</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>364</xmin>
+			<ymin>208</ymin>
+			<xmax>412</xmax>
+			<ymax>256</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Cam di nguoc chieu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>360</xmin>
+			<ymin>155</ymin>
+			<xmax>412</xmax>
+			<ymax>206</ymax>
+		</bndbox>
+	</object>
+</annotation>

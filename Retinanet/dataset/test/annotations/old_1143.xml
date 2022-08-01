@@ -1,0 +1,38 @@
+<annotation>
+	<folder>XML</folder>
+	<filename>old_1143.jpg</filename>
+	<path>F:\Object-Detection\Scripts\converters\dataTest\labels\test\old_1143.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bien khac</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1639</xmin>
+			<ymin>210</ymin>
+			<xmax>1751</xmax>
+			<ymax>270</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Cam do xe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1560</xmin>
+			<ymin>246</ymin>
+			<xmax>1610</xmax>
+			<ymax>295</ymax>
+		</bndbox>
+	</object>
+</annotation>

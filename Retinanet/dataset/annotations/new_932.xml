@@ -1,0 +1,50 @@
+<annotation>
+	<folder>XML</folder>
+	<filename>new_932.jpg</filename>
+	<path>F:\Object-Detection\Scripts\converters\labels\val\new_932.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Huong di phai re phai</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>12</xmin>
+			<ymin>183</ymin>
+			<xmax>60</xmax>
+			<ymax>243</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Cam di nguoc chieu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>16</xmin>
+			<ymin>120</ymin>
+			<xmax>70</xmax>
+			<ymax>180</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Bien khac</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>732</xmin>
+			<ymin>179</ymin>
+			<xmax>773</xmax>
+			<ymax>216</ymax>
+		</bndbox>
+	</object>
+</annotation>

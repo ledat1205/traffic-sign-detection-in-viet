@@ -1,0 +1,50 @@
+<annotation>
+	<folder>XML</folder>
+	<filename>old_673.jpg</filename>
+	<path>F:\Object-Detection\Scripts\converters\dataTest\labels\test\old_673.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>638</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nguoi di bo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>866</xmin>
+			<ymin>447</ymin>
+			<xmax>900</xmax>
+			<ymax>480</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Cam di nguoc chieu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>518</xmin>
+			<ymin>486</ymin>
+			<xmax>530</xmax>
+			<ymax>498</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Huong di phai re phai</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>519</xmin>
+			<ymin>500</ymin>
+			<xmax>530</xmax>
+			<ymax>511</ymax>
+		</bndbox>
+	</object>
+</annotation>

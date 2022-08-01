@@ -1,0 +1,38 @@
+<annotation>
+	<folder>XML</folder>
+	<filename>old_1595.jpg</filename>
+	<path>F:\Object-Detection\Scripts\converters\dataTest\labels\test\old_1595.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>638</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bien khac</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>770</xmin>
+			<ymin>455</ymin>
+			<xmax>806</xmax>
+			<ymax>490</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Giao nhau voi duong khong uu tien</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>727</xmin>
+			<ymin>485</ymin>
+			<xmax>751</xmax>
+			<ymax>510</ymax>
+		</bndbox>
+	</object>
+</annotation>

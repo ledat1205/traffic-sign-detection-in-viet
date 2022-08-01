@@ -1,0 +1,38 @@
+<annotation>
+	<folder>XML</folder>
+	<filename>new_995.jpg</filename>
+	<path>F:\Object-Detection\Scripts\converters\labels\train\new_995.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cam do xe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>732</xmin>
+			<ymin>174</ymin>
+			<xmax>772</xmax>
+			<ymax>210</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Bien khac</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>733</xmin>
+			<ymin>208</ymin>
+			<xmax>773</xmax>
+			<ymax>243</ymax>
+		</bndbox>
+	</object>
+</annotation>

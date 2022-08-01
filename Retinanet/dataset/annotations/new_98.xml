@@ -1,0 +1,38 @@
+<annotation>
+	<folder>XML</folder>
+	<filename>new_98.jpg</filename>
+	<path>F:\Object-Detection\Scripts\converters\labels\val\new_98.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Huong di phai re phai</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>504</xmin>
+			<ymin>318</ymin>
+			<xmax>544</xmax>
+			<ymax>356</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Cam di nguoc chieu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>507</xmin>
+			<ymin>280</ymin>
+			<xmax>550</xmax>
+			<ymax>320</ymax>
+		</bndbox>
+	</object>
+</annotation>

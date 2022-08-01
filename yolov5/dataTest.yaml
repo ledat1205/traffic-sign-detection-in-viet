@@ -1,0 +1,14 @@
+# Train/val/test sets as 1) dir: path/to/imgs, 2) file: path/to/imgs.txt, or 3) list: [path/to/imgs1, path/to/imgs2, ..]
+path: ../drive/MyDrive/CV_nangcao/data/data_2_version/dataTest  # dataset root dir
+
+val: images/test # test images (optional)
+
+# Classes
+nc: 6  # number of classes
+names: ['Cam di nguoc chieu', 
+        'Huong di phai re phai',
+        'Giao nhau voi duong khong uu tien', 
+        'Nguoi di bo', 
+        'Cam do xe',
+        'Bien khac']  # class names
+

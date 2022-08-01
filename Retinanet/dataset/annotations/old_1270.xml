@@ -1,0 +1,50 @@
+<annotation>
+	<folder>XML</folder>
+	<filename>old_1270.jpg</filename>
+	<path>F:\Object-Detection\Scripts\converters\labels\val\old_1270.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nguoi di bo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1314</xmin>
+			<ymin>255</ymin>
+			<xmax>1395</xmax>
+			<ymax>341</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Bien khac</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1094</xmin>
+			<ymin>359</ymin>
+			<xmax>1144</xmax>
+			<ymax>412</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Cam di nguoc chieu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>714</xmin>
+			<ymin>420</ymin>
+			<xmax>732</xmax>
+			<ymax>440</ymax>
+		</bndbox>
+	</object>
+</annotation>

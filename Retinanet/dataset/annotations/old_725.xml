@@ -1,0 +1,38 @@
+<annotation>
+	<folder>XML</folder>
+	<filename>old_725.jpg</filename>
+	<path>F:\Object-Detection\Scripts\converters\labels\train\old_725.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Giao nhau voi duong khong uu tien</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1002</xmin>
+			<ymin>513</ymin>
+			<xmax>1040</xmax>
+			<ymax>551</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Cam di nguoc chieu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>422</xmin>
+			<ymin>477</ymin>
+			<xmax>489</xmax>
+			<ymax>554</ymax>
+		</bndbox>
+	</object>
+</annotation>

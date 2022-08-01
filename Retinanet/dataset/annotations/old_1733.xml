@@ -1,0 +1,38 @@
+<annotation>
+	<folder>XML</folder>
+	<filename>old_1733.jpg</filename>
+	<path>F:\Object-Detection\Scripts\converters\labels\train\old_1733.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bien khac</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1595</xmin>
+			<ymin>329</ymin>
+			<xmax>1637</xmax>
+			<ymax>397</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Bien khac</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1549</xmin>
+			<ymin>344</ymin>
+			<xmax>1594</xmax>
+			<ymax>405</ymax>
+		</bndbox>
+	</object>
+</annotation>

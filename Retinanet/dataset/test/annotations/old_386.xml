@@ -1,0 +1,38 @@
+<annotation>
+	<folder>XML</folder>
+	<filename>old_386.jpg</filename>
+	<path>F:\Object-Detection\Scripts\converters\dataTest\labels\test\old_386.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bien khac</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1078</xmin>
+			<ymin>506</ymin>
+			<xmax>1107</xmax>
+			<ymax>530</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Bien khac</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1011</xmin>
+			<ymin>534</ymin>
+			<xmax>1033</xmax>
+			<ymax>556</ymax>
+		</bndbox>
+	</object>
+</annotation>

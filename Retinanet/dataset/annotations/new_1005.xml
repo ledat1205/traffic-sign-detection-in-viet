@@ -1,0 +1,38 @@
+<annotation>
+	<folder>XML</folder>
+	<filename>new_1005.jpg</filename>
+	<path>F:\Object-Detection\Scripts\converters\labels\val\new_1005.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cam do xe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1107</xmin>
+			<ymin>82</ymin>
+			<xmax>1168</xmax>
+			<ymax>154</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Bien khac</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1109</xmin>
+			<ymin>158</ymin>
+			<xmax>1172</xmax>
+			<ymax>226</ymax>
+		</bndbox>
+	</object>
+</annotation>

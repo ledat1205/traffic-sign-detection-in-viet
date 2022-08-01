@@ -1,0 +1,38 @@
+<annotation>
+	<folder>XML</folder>
+	<filename>old_172.jpg</filename>
+	<path>F:\Object-Detection\Scripts\converters\labels\val\old_172.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>638</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nguoi di bo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>806</xmin>
+			<ymin>412</ymin>
+			<xmax>862</xmax>
+			<ymax>472</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Cam di nguoc chieu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>488</xmin>
+			<ymin>497</ymin>
+			<xmax>504</xmax>
+			<ymax>511</ymax>
+		</bndbox>
+	</object>
+</annotation>

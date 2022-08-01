@@ -1,0 +1,50 @@
+<annotation>
+	<folder>XML</folder>
+	<filename>old_1400.jpg</filename>
+	<path>F:\Object-Detection\Scripts\converters\labels\train\old_1400.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>638</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bien khac</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>705</xmin>
+			<ymin>472</ymin>
+			<xmax>728</xmax>
+			<ymax>499</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Nguoi di bo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>642</xmin>
+			<ymin>485</ymin>
+			<xmax>660</xmax>
+			<ymax>505</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Cam di nguoc chieu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>512</xmin>
+			<ymin>503</ymin>
+			<xmax>522</xmax>
+			<ymax>513</ymax>
+		</bndbox>
+	</object>
+</annotation>

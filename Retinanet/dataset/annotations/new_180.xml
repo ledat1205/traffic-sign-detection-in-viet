@@ -1,0 +1,38 @@
+<annotation>
+	<folder>XML</folder>
+	<filename>new_180.jpg</filename>
+	<path>F:\Object-Detection\Scripts\converters\labels\val\new_180.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Huong di phai re phai</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>369</xmin>
+			<ymin>217</ymin>
+			<xmax>437</xmax>
+			<ymax>288</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Huong di phai re phai</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>368</xmin>
+			<ymin>138</ymin>
+			<xmax>441</xmax>
+			<ymax>214</ymax>
+		</bndbox>
+	</object>
+</annotation>

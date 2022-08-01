@@ -1,0 +1,38 @@
+<annotation>
+	<folder>XML</folder>
+	<filename>old_1134.jpg</filename>
+	<path>F:\Object-Detection\Scripts\converters\labels\val\old_1134.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bien khac</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1114</xmin>
+			<ymin>455</ymin>
+			<xmax>1177</xmax>
+			<ymax>521</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Nguoi di bo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>973</xmin>
+			<ymin>501</ymin>
+			<xmax>1020</xmax>
+			<ymax>538</ymax>
+		</bndbox>
+	</object>
+</annotation>

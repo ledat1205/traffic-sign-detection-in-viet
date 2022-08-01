@@ -1,0 +1,38 @@
+<annotation>
+	<folder>XML</folder>
+	<filename>old_1596.jpg</filename>
+	<path>F:\Object-Detection\Scripts\converters\labels\train\old_1596.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>638</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Giao nhau voi duong khong uu tien</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>957</xmin>
+			<ymin>369</ymin>
+			<xmax>1022</xmax>
+			<ymax>436</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Bien khac</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>781</xmin>
+			<ymin>423</ymin>
+			<xmax>823</xmax>
+			<ymax>475</ymax>
+		</bndbox>
+	</object>
+</annotation>

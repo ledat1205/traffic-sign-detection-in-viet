@@ -1,0 +1,50 @@
+<annotation>
+	<folder>XML</folder>
+	<filename>old_197.jpg</filename>
+	<path>F:\Object-Detection\Scripts\converters\dataTest\labels\test\old_197.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>638</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nguoi di bo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>730</xmin>
+			<ymin>434</ymin>
+			<xmax>754</xmax>
+			<ymax>460</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Cam di nguoc chieu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>507</xmin>
+			<ymin>458</ymin>
+			<xmax>519</xmax>
+			<ymax>470</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Nguoi di bo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>642</xmin>
+			<ymin>459</ymin>
+			<xmax>655</xmax>
+			<ymax>472</ymax>
+		</bndbox>
+	</object>
+</annotation>

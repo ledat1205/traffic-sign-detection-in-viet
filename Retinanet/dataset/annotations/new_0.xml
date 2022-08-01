@@ -1,0 +1,38 @@
+<annotation>
+	<folder>XML</folder>
+	<filename>new_0.jpg</filename>
+	<path>F:\Object-Detection\Scripts\converters\labels\val\new_0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Giao nhau voi duong khong uu tien</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1017</xmin>
+			<ymin>309</ymin>
+			<xmax>1045</xmax>
+			<ymax>338</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Giao nhau voi duong khong uu tien</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1016</xmin>
+			<ymin>274</ymin>
+			<xmax>1046</xmax>
+			<ymax>303</ymax>
+		</bndbox>
+	</object>
+</annotation>

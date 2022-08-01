@@ -1,0 +1,38 @@
+<annotation>
+	<folder>XML</folder>
+	<filename>old_1656.jpg</filename>
+	<path>F:\Object-Detection\Scripts\converters\labels\train\old_1656.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cam di nguoc chieu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>632</xmin>
+			<ymin>542</ymin>
+			<xmax>660</xmax>
+			<ymax>573</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Nguoi di bo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1100</xmin>
+			<ymin>429</ymin>
+			<xmax>1182</xmax>
+			<ymax>511</ymax>
+		</bndbox>
+	</object>
+</annotation>

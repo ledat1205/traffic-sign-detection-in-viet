@@ -1,0 +1,38 @@
+<annotation>
+	<folder>XML</folder>
+	<filename>old_407.jpg</filename>
+	<path>F:\Object-Detection\Scripts\converters\labels\val\old_407.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>638</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bien khac</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>863</xmin>
+			<ymin>376</ymin>
+			<xmax>918</xmax>
+			<ymax>448</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Bien khac</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>956</xmin>
+			<ymin>454</ymin>
+			<xmax>968</xmax>
+			<ymax>478</ymax>
+		</bndbox>
+	</object>
+</annotation>

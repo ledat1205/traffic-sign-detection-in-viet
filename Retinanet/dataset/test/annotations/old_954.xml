@@ -1,0 +1,62 @@
+<annotation>
+	<folder>XML</folder>
+	<filename>old_954.jpg</filename>
+	<path>F:\Object-Detection\Scripts\converters\dataTest\labels\test\old_954.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bien khac</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1853</xmin>
+			<ymin>430</ymin>
+			<xmax>1883</xmax>
+			<ymax>480</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Bien khac</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1818</xmin>
+			<ymin>437</ymin>
+			<xmax>1851</xmax>
+			<ymax>485</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Bien khac</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1021</xmin>
+			<ymin>469</ymin>
+			<xmax>1071</xmax>
+			<ymax>534</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Giao nhau voi duong khong uu tien</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>969</xmin>
+			<ymin>520</ymin>
+			<xmax>1003</xmax>
+			<ymax>555</ymax>
+		</bndbox>
+	</object>
+</annotation>

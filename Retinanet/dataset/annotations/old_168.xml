@@ -1,0 +1,38 @@
+<annotation>
+	<folder>XML</folder>
+	<filename>old_168.jpg</filename>
+	<path>F:\Object-Detection\Scripts\converters\labels\train\old_168.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>638</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nguoi di bo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>678</xmin>
+			<ymin>470</ymin>
+			<xmax>705</xmax>
+			<ymax>501</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Bien khac</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>756</xmin>
+			<ymin>448</ymin>
+			<xmax>792</xmax>
+			<ymax>489</ymax>
+		</bndbox>
+	</object>
+</annotation>

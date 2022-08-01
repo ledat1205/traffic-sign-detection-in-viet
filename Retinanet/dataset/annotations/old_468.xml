@@ -1,0 +1,38 @@
+<annotation>
+	<folder>XML</folder>
+	<filename>old_468.jpg</filename>
+	<path>F:\Object-Detection\Scripts\converters\labels\train\old_468.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>638</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bien khac</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>692</xmin>
+			<ymin>436</ymin>
+			<xmax>767</xmax>
+			<ymax>492</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Cam di nguoc chieu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>394</xmin>
+			<ymin>463</ymin>
+			<xmax>418</xmax>
+			<ymax>496</ymax>
+		</bndbox>
+	</object>
+</annotation>

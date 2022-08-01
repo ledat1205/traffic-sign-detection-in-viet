@@ -1,0 +1,62 @@
+<annotation>
+	<folder>XML</folder>
+	<filename>old_1098.jpg</filename>
+	<path>F:\Object-Detection\Scripts\converters\labels\val\old_1098.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bien khac</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1283</xmin>
+			<ymin>307</ymin>
+			<xmax>1351</xmax>
+			<ymax>380</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Bien khac</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1207</xmin>
+			<ymin>299</ymin>
+			<xmax>1281</xmax>
+			<ymax>373</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Bien khac</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1240</xmin>
+			<ymin>220</ymin>
+			<xmax>1320</xmax>
+			<ymax>305</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Bien khac</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>64</xmin>
+			<ymin>166</ymin>
+			<xmax>278</xmax>
+			<ymax>353</ymax>
+		</bndbox>
+	</object>
+</annotation>

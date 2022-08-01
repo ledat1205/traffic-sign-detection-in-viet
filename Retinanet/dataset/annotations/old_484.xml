@@ -1,0 +1,50 @@
+<annotation>
+	<folder>XML</folder>
+	<filename>old_484.jpg</filename>
+	<path>F:\Object-Detection\Scripts\converters\labels\val\old_484.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>638</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bien khac</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>968</xmin>
+			<ymin>326</ymin>
+			<xmax>1039</xmax>
+			<ymax>404</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Giao nhau voi duong khong uu tien</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>798</xmin>
+			<ymin>437</ymin>
+			<xmax>841</xmax>
+			<ymax>479</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Bien khac</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>725</xmin>
+			<ymin>454</ymin>
+			<xmax>759</xmax>
+			<ymax>491</ymax>
+		</bndbox>
+	</object>
+</annotation>

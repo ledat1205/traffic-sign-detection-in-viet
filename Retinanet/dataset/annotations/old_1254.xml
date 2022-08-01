@@ -1,0 +1,50 @@
+<annotation>
+	<folder>XML</folder>
+	<filename>old_1254.jpg</filename>
+	<path>F:\Object-Detection\Scripts\converters\labels\train\old_1254.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bien khac</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1621</xmin>
+			<ymin>366</ymin>
+			<xmax>1731</xmax>
+			<ymax>467</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Cam do xe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1239</xmin>
+			<ymin>486</ymin>
+			<xmax>1273</xmax>
+			<ymax>525</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Bien khac</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>496</xmin>
+			<ymin>397</ymin>
+			<xmax>564</xmax>
+			<ymax>467</ymax>
+		</bndbox>
+	</object>
+</annotation>

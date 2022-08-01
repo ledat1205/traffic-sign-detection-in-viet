@@ -1,0 +1,50 @@
+<annotation>
+	<folder>XML</folder>
+	<filename>old_808.jpg</filename>
+	<path>F:\Object-Detection\Scripts\converters\labels\val\old_808.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nguoi di bo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1724</xmin>
+			<ymin>316</ymin>
+			<xmax>1798</xmax>
+			<ymax>453</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Cam di nguoc chieu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>544</xmin>
+			<ymin>254</ymin>
+			<xmax>638</xmax>
+			<ymax>352</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Bien khac</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1100</xmin>
+			<ymin>391</ymin>
+			<xmax>1141</xmax>
+			<ymax>431</ymax>
+		</bndbox>
+	</object>
+</annotation>

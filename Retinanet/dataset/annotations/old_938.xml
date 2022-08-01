@@ -1,0 +1,26 @@
+<annotation>
+	<folder>XML</folder>
+	<filename>old_938.jpg</filename>
+	<path>F:\Object-Detection\Scripts\converters\labels\train\old_938.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>953</width>
+		<height>637</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cam do xe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>710</xmin>
+			<ymin>71</ymin>
+			<xmax>798</xmax>
+			<ymax>161</ymax>
+		</bndbox>
+	</object>
+</annotation>

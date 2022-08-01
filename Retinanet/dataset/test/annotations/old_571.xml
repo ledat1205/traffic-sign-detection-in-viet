@@ -1,0 +1,26 @@
+<annotation>
+	<folder>XML</folder>
+	<filename>old_571.jpg</filename>
+	<path>F:\Object-Detection\Scripts\converters\dataTest\labels\test\old_571.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>638</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cam di nguoc chieu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>313</xmin>
+			<ymin>384</ymin>
+			<xmax>360</xmax>
+			<ymax>444</ymax>
+		</bndbox>
+	</object>
+</annotation>

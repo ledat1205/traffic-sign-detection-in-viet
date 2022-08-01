@@ -1,0 +1,62 @@
+<annotation>
+	<folder>XML</folder>
+	<filename>old_1347.jpg</filename>
+	<path>F:\Object-Detection\Scripts\converters\labels\val\old_1347.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Giao nhau voi duong khong uu tien</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1273</xmin>
+			<ymin>399</ymin>
+			<xmax>1354</xmax>
+			<ymax>491</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Bien khac</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1015</xmin>
+			<ymin>491</ymin>
+			<xmax>1065</xmax>
+			<ymax>546</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Cam di nguoc chieu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>738</xmin>
+			<ymin>548</ymin>
+			<xmax>761</xmax>
+			<ymax>570</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Nguoi di bo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>894</xmin>
+			<ymin>545</ymin>
+			<xmax>924</xmax>
+			<ymax>569</ymax>
+		</bndbox>
+	</object>
+</annotation>

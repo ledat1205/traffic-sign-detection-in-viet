@@ -1,0 +1,38 @@
+<annotation>
+	<folder>XML</folder>
+	<filename>new_999.jpg</filename>
+	<path>F:\Object-Detection\Scripts\converters\labels\val\new_999.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cam do xe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>882</xmin>
+			<ymin>78</ymin>
+			<xmax>953</xmax>
+			<ymax>140</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Bien khac</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>880</xmin>
+			<ymin>138</ymin>
+			<xmax>948</xmax>
+			<ymax>200</ymax>
+		</bndbox>
+	</object>
+</annotation>
