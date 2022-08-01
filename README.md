@@ -33,7 +33,7 @@ Mội vài ảnh minh họa dataset:
 </p>
 
 ### Quá trình training và test
-Áp dụng transfer learning 2 mô hình pre-train [yolov5][2] và [RetinaNet][3]. Chi tiết về cách train trên custom dataset đều được hướng dẫn trong repo chính của 2 model. Với mỗi mô hình ở luôn train thử trên 3 epoch, sau đó mới thực hiện quá trình training. Quá trình train sẽ được dừng loại dựa trên các số liệu của tập val như:
+Áp dụng transfer learning 2 mô hình pre-train [yolov5][2] và [RetinaNet][3]. Chi tiết về cách train trên custom dataset đều được hướng dẫn trong repo chính của 2 model. Với mỗi mô hình luôn train thử trên 3 epoch, sau đó mới thực hiện quá trình training. Quá trình train sẽ được dừng loại dựa trên các số liệu của tập val như:
 loss, mAP.
 #### RetinaNet
 
